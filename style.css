@@ -484,14 +484,14 @@ header img {
 /* Styles for MCQ images */
 .mcq-image {
 	margin: 10px;
-    height: 400px;
-    width: 1000px;
+    height: 300px;
+    width: 750px;
 }
 
 /* Styles for numerical question images */
 .numerical-image {
-    height: 400px;
-    width: 1000px;
+    height: 300px;
+    width: 750px;
 }
 
 
